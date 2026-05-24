@@ -24,7 +24,7 @@ npx @cloudflare/next-on-pages@1.5.0
   <tr><td>NODE_VERSION<td>20.18.1<td>必须</tr>
   <tr><td>NEXT_TELEMETRY_DISABLE<td>1<td>必须</tr>
   <tr><td>OPENAI_API_KEY<td>你的API KEY<td>必须</tr>
-  <tr><td>PHP_VERSION<td>7.1<td>必须</tr>
+  <tr><td>PHP_VERSION<td>7.4<td>必须</tr>
   <tr><td>YARN_VERSION<td>1.22.19<td>必须<tr>
   <tr><td>BASE_URL<td>https://api.openai.com<td>可选,OPENAI API地址、第三方API OPENAI兼容地址<tr>
   <tr><td>CUSTOM_MODELS<td>gpt-4,gpt-3.5-turbo<td>可选，自定义可用模型<tr>
